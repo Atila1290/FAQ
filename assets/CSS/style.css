@@ -8,7 +8,7 @@ html{
 }
 
 body{
-    background: url(./assets/images/background-pattern-desktop.svg) no-repeat  center center;
+    background: url(../images/background-pattern-desktop.svg) no-repeat  center center;
     height:  50vh;
     width: 100%;
     position: absolute;
@@ -29,7 +29,7 @@ main{
 }
 
 .container .titulo{
-    background: url(./assets/images/icon-titulo.svg) no-repeat;
+    background: url(../images/icon-titulo.svg) no-repeat;
     padding-left: 40px;
     margin-bottom: 15px;
     font-size: 40px;
@@ -44,7 +44,7 @@ main{
 }
 
 .pergunta{
-    background: url(./assets/images/icon-fechado.svg)  no-repeat ;
+    background: url(../images/icon-fechado.svg)  no-repeat ;
     background-position: top 0px right 10px;
 }
 
@@ -64,7 +64,7 @@ main{
 }
 
 .container .conteudo.mostrar .pergunta{
-    background: url(./assets/images/icon-aberto.svg)  no-repeat ;
+    background: url(../images/icon-aberto.svg)  no-repeat ;
     background-position: top 0px right 8px;
 }
 
